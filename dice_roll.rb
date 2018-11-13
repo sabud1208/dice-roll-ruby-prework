@@ -6,4 +6,3 @@ def roll(num)
   num= (1..6)
   num= random.new
 end
-
