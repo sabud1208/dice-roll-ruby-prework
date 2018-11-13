@@ -5,4 +5,3 @@
 def roll
   puts (rand*6).to_i
 end
-
